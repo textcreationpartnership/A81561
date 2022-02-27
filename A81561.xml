@@ -1,0 +1,249 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Divers papers from the army: viz. 1. Marshall Generall Skippons speech to the army, May the 15th. 2. The answer of the army: wherein they set downe their grievances. Whereunto are added other papers of concernment.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81561</idno>
+            <idno type="STC">Wing D1709</idno>
+            <idno type="STC">Thomason E388_18</idno>
+            <idno type="STC">ESTC R201513</idno>
+            <idno type="EEBO-CITATION">99862014</idno>
+            <idno type="PROQUEST">99862014</idno>
+            <idno type="VID">160240</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81561)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160240)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 62:E388[18])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Divers papers from the army: viz. 1. Marshall Generall Skippons speech to the army, May the 15th. 2. The answer of the army: wherein they set downe their grievances. Whereunto are added other papers of concernment.</title>
+                  <author>Skippon, Philip, d. 1660.</author>
+                  <author>England and Wales. Army.</author>
+               </titleStmt>
+               <extent>[2], 13, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Hanna Allen, at the Crowne in Popes-head-Alley,</publisher>
+                  <pubPlace>London; :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "May: 22".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Skippon, Philip, d. 1660 --  Early works to 1800.</term>
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <p>
+               <pb facs="tcp:160240:1" rendition="simple:additions"/> DIVERS PAPERS FROM THE ARMY: <hi>VIZ.</hi>
+            </p>
+            <p>1. MARSHALL GENERALL <hi>SKIPPONS</hi> SPEECH To the Army, <hi>May</hi> the 15<hi rend="sup">th</hi>.</p>
+            <p>2. THE ANSWER OF THE ARMY: Wherein they ſet downe their Grievances.</p>
+            <p>Whereunto are added other Papers of Concern<g ref="char:EOLhyphen"/>ment.</p>
+            <figure>
+               <figDesc>decoration</figDesc>
+            </figure>
+            <p>
+               <hi>LONDON;</hi> Printed for <hi>Hanna Allen,</hi> at the Crowne in <hi>Popes-head-Alley,</hi>
+1647.</p>
+            <pb facs="tcp:160240:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb n="1" facs="tcp:160240:2"/>
+            <head>MARSHALL GENERALL <hi>SKIPPONS</hi> SPEECH At the Convention of Officers at <hi>Walden,</hi> May the 15<hi rend="sup">th</hi>.</head>
+            <opener>
+               <salute>Gentlemen and fellow-Souldiers;</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>EE are here once more accord<g ref="char:EOLhyphen"/>ing to appointment, met toge<g ref="char:EOLhyphen"/>ther to deſire you to give us a cleare and faithfull account of your communicating the Votes of the Houſe of Commons to your ſeverall Regiments, and thoſe under your Command, and to deſire you to informe us how you have labou<g ref="char:EOLhyphen"/>red to ſatisfie them in the care the Honorable Houſe tooke in thoſe Votes for the Army, and what ſincere induſtrous and faithfull endeavours you have uſed to make them ſenſible thereof, and what diſtempers you found in your ſeverall Regiments, Troops and Com<g ref="char:EOLhyphen"/>panies, that wee may know how you have in theſe par<g ref="char:EOLhyphen"/>ticulars diſcharged your duties, as conſciencious Chriſtians in the ſight of God, and as men faithfully obedient to the Parliament of <hi>England.</hi>
+            </p>
+            <p>I am further to deſire you upon a motion made againe and againe, upon a mention of my ſelfe, in rela<g ref="char:EOLhyphen"/>tion
+<pb n="2" facs="tcp:160240:3"/> of <hi>Ireland,</hi> to deſire you to let me know, how you finde your ſeverall Regiments diſpoſed.</p>
+            <p>The juſtneſſe, the honorableneſſe, and neceſſitie of the ſervice cannot be unknowne to you; I deſire you according to the minde of the other Gentlemen that were ſent downe with mee, not as Commiſſioners, but as Parliament men, and members of the Army, that you would in theſe particulars give us ſatisfacti<g ref="char:EOLhyphen"/>on, that it may appeare to us, and to the Parliament, and to all the Kingdom<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, that heare of our proceed<g ref="char:EOLhyphen"/>ings, that you have faithfully diſcharged your duties, as wee deſire to doe to the Parliament for the ſervice of the whole Kingdome; I pray that there may be an orderly proceeding in what wee have to doe; I doubt not, but in the end of all, wee ſhall finde that nothing is aymed at in all things, but what tends to the reall ſervice of the Parliament, and the good of the whole Kingdome.</p>
+         </div>
+         <div type="answer">
+            <pb n="3" facs="tcp:160240:3"/>
+            <head>TO THE RIGHT HONORABLE <hi>PHILIP SKIPPON,</hi> FIELD MARSHALL GENERALL, LIEVT. GENERALL
+<hi>CRUMWELL,</hi> COMMISSARY GENERALL <hi>IRETON,</hi> AND COLLONELL <hi>FLEETVVOOD.</hi>
+            </head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">H</seg>Aving received at the laſt Convention by your commands, upon commands and direction to our ſeverall Regiments for the publiſhing of the Votes of Parliament, for the ſatisfaction of the Army in point of arreares and indempnity; and faithful<g ref="char:EOLhyphen"/>ly to inquire into the diſtempers of the Army, and reall grounds of their ſeverall addreſſes to the Parliament, and the Generall: In which having diligently and accordingly endeavoured to anſwer your expectations in that you have injoyned us, wee have according to the beſt of our under<g ref="char:EOLhyphen"/>ſtandings, and you may pleaſe to know, that wee finde both Officers and Souldiers quiet and free from any viſible di<g ref="char:EOLhyphen"/>ſtemper, and yet ſenſible of divers preſsing grievances, which quietly they have made knowne unto us, and in their and our own behalfe preſent unto you.</hi>
+            </p>
+            <p>
+               <seg rend="decorInit">F</seg>Irſt, that whereas it pleaſes the Honourable Houſes of Parliament, upon miſ-information falſly ſugge<g ref="char:EOLhyphen"/>ſted unto them, to declare and immediately pub<g ref="char:EOLhyphen"/>liſh in print to the Kingdome, that the Petition of the Army, being but onely an intention, did tend to put the Army into a diſtemper and mutiny, to obſtruct the reliefe of <hi>Ireland,</hi> and to put conditions upon the Parliament, and
+<pb n="4" facs="tcp:160240:4"/> declaring the Petitioners, if they ſhall proceed therein, no leſſe then enemies to the State, and diſturbers to the publique Peace; which ſaid heavie charge remaining upon record, as a <hi>Mem<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>randum</hi> of In<g ref="char:EOLhyphen"/>famy upon us to poſterity; wee cannot chooſe but be deeply ſenſi<g ref="char:EOLhyphen"/>ble thereof, and with amazement wonder how ſo humble and inno<g ref="char:EOLhyphen"/>cent addreſſe, intended to the Generall, could beget ſo ſtrange an interpretation. The ſubſtance of thoſe things that we intended to ſue for therein, being no other then what the Parliament fully promiſed, and frequently confirmed unto us by their Declaration.</p>
+            <p>Secondly, That whereas thoſe perſons that have attempted to beget and attempt and foment diviſions between the Parliament and their Army, by their ſurrepticious obtaining and miſrepreſen<g ref="char:EOLhyphen"/>ting our Petitions, and by producing other ſcandalous Letters from unknowne hands, by them produced; the Authors whereof are concealed, and not brought forth to make a judiciall proofe of thoſe things laid to our charge, which we cannot but look upon as a juſt cauſe of griefe, that the ſuggeſtors of ſuch untruths ſeeme to be incouraged, and wee who are innocent remaine unjuſtified.</p>
+            <p>Thirdly, That divers Officers of the Army, of publique and knowne integrity, have been (upon what grounds we know not) ſent for to the Parliament as delinquents; Some whereof doe at this preſent attend there, and cannot procure a triall, having no<g ref="char:EOLhyphen"/>thing conſiderable laid to their charge, and more particular En<g ref="char:EOLhyphen"/>ſigne <hi>Nichols,</hi> formerly a member of this Army, but now ingaged for <hi>Ireland;</hi> his pockets ſearched, and his papers taken from him, contrary to the Law of this Kingdome, and diſcipline of warre; and ſince by order from the Commiſſioners (without the Gene<g ref="char:EOLhyphen"/>ralls privity, he being then at the head Quarter) that were ſent to the Army appointed for the reliefe of <hi>Ireland,</hi> ſent to <hi>London,</hi> where he is ſtill kept priſoner at great expences, and not admitted to tryall: which preſident may equally extend to any or all in the Army: both which particulars laſt mentioned, bearing with them the face of delay and protraction of juſtice, wee cannot but looke upon as a juſt cauſe of trouble unto us.</p>
+            <p>Fourthly, That whereas wee underſtand that the Parliament hath voted a ſudden disbanding of the Army, not having made ſufficient proviſion for the auditing of our arreares, and ſtating of our accounts, our own reaſon, and experience of others, makes
+<pb n="5" facs="tcp:160240:4"/> us ſenſible, how difficult, chargeable, and uncertaine the obtain<g ref="char:EOLhyphen"/>ing thereof will be after our disbanding, and therefore juſtly makes us ſenſible thereof.</p>
+            <p>Fiftly, That no proviſion hath been made for the payment of our dearly earned wages by the expence of our bloud, and often hazard of our lives, ſaving a vote of ſix weekes upon disbanding, which is ſo meane a requitall of our faithfull ſervice, the King<g ref="char:EOLhyphen"/>dome being now ſetled in peace, that it will inevitably expoſe us (eſpecially the private Souldiers to great extremities) being hardly ſufficient to maintaine many of them in their journies to their owne homes.</p>
+            <p>Sixtly, that nothing as yet hath been perfected for our future ſecurity for things done as Souldiers, in relation to the warre which the exigency thereof hath compelled thereunto, the want whereof we cannot chooſe but become very ſenſible of, when wee conſider the many, ſad examples of bitter and rigorous proſecuti<g ref="char:EOLhyphen"/>ons at Law againſt Souldiers, for Acts done in order to the pro<g ref="char:EOLhyphen"/>motion of your ſervice.</p>
+            <p>Seventhly, That wee ſtand in feare (eſpecially the private Soul<g ref="char:EOLhyphen"/>diers) of being impreſt or forced to ſerve as Souldiers out of the Kingdome, many of them having ſpent their times freely in the publique ſervice of the Kingdome, forſaking their trades, their onely livelihood, to which many deſire to returne againe for their better future livelihood.</p>
+            <p>Eightly, That whereas divers of us, (eſpecially the private Soul<g ref="char:EOLhyphen"/>diers) who were apprentices in <hi>London,</hi> and other parts of the Kingdome, have voluntarily ingaged themſelves in the ſervice, being incouraged thereunto by the Parliaments Declaration, ſhewing that the time that they ſhould ſo ſpend in the proſecuti<g ref="char:EOLhyphen"/>on thereof, ſhould be ſo effectuall in order to their freedome, as if they had remained with their ſeverall reſpective Maſters, notwith<g ref="char:EOLhyphen"/>ſtanding which, many have refuſed to give ſome of us freedomes, who may juſtly claime it by the Parliaments Declaration for that purpoſe.</p>
+            <p>Ninthly, That many Souldiers who have loſt their lives, wid<g ref="char:EOLhyphen"/>dowes who have loſt their husbands, and children their parents in this ſervice, and thereby reduced to great extremities, even to beggery for want of ſufficient proviſion for their ſubſiſtance, are not ſufficiently provided, for a future livelihood.</p>
+            <p>
+               <pb n="6" facs="tcp:160240:5"/> Tenthly, that whereas divers perſons have both privately and publickly laboured by aſperſions, and falſe calumnies to make us odious to the Kingdome, thereby ſeeking to al<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>enate their affections from us, in order to which they have publiſhed many ſcandalous Bookes, ſuch as Mr. <hi>Edwards Gangraena,</hi> and divers others of that nature, and alſo very lately a report di<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>u<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ged abroad, that we have petitioned his Majeſty inviting him to come to the head of our Army, and that wee would re<g ref="char:EOLhyphen"/>ſtore him to his Crowne, Throne, and Dignity: a perſon of eminency having had the confidence to averre at a very great, and publick convention, that he ſaw a Copie of a Petition, which was delivered to his Majeſty<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, and that the Army was no longer a new Modell, but had foure thouſand Cavilleers, that <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> coming from the Fountaine-head, perceived that the King and Cavileeres, had their ſingle and whole dependence upon this Ar<g ref="char:EOLhyphen"/>my, and others privately ſuggeſting the ſame, by diſperſing ſe<g ref="char:EOLhyphen"/>verall Copies of the ſaid pretended Petition, the ſeverall par<g ref="char:EOLhyphen"/>ticulars whereof we proteſt againſt as moſt falſe, and are con<g ref="char:EOLhyphen"/>fident that it proceeded not from any probable ground, which may argue ſuch an intention in us, but ſingly from the malice of our Enemies.</p>
+            <p>Eleventhly, that notwithſtanding the great care of the <hi>Com<g ref="char:EOLhyphen"/>mittee</hi> and Treaſurers of the Army, &amp; the cheerefull readineſſe of moſt Counties for the paying of Aſſeſſements, as thoſe where we now quarter doe affirme, nevertheleſſe the private Souldiers are neceſſitated, to take free Quarter for the preſent, which is very irkeſome unto us to be ſo burdenſome to our friends.</p>
+            <p>
+               <hi>Having thus according to your Commands, as fully as wee are able, accounted unto you, what was the true genuine ſence of the Army, and not their imaginary conceits, but their grievances, that ine<g ref="char:EOLhyphen"/>vitably fall upon us, unleſſe the Parliament take courſe to prevent them: if the time allowed us by you would admit, wee could more fully demonſtrate. Wee aſſume the boldneſſe to intreate you to be deeply ſenſible of, &amp; repreſent to the Parliament theſe particulars, in ſuch an humble way, and to right us,
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f wee ſhall be miſrepre<g ref="char:EOLhyphen"/>ſented to the Parliament by any, and ſo farre as you can cover our weakneſſes, that have or may ſlip from us, and prevent any ſcan<g ref="char:EOLhyphen"/>dalls, that the malice of any men doe ſeeke herein to aſperſe us, when wee ſhall be inquired into.</hi>
+            </p>
+         </div>
+         <div type="grievances">
+            <pb n="7" facs="tcp:160240:5"/>
+            <head>Certain Heads of Aggrievances conſidered of by the Souldiers of Coll: RICHES Regiment, the conſide<g ref="char:EOLhyphen"/>ration whereof is the ſupplantive cauſe of our Petitioning.</head>
+            <p n="1">1 <seg rend="decorInit">T</seg>Hat we who have adventured our eſtates, li<g ref="char:EOLhyphen"/>berties, and lives, yea all that was neer and dear unto us, not onely for our own free<g ref="char:EOLhyphen"/>dom, but for the priviledge of Parliament, and the ſafety of the Kingdom, ſhould be denyed to ſtep over the very threſhold of li<g ref="char:EOLhyphen"/>berty (to wit) Petitioning; when as our open Enemies were never debarred of this Priviledge.</p>
+            <p n="2">Secondly, That although the Kingdom hath now for ſome time been quiet, the Parliament ſecured, all Quarters free, and ſomewhat ſetled; all which hath been procured by the price of our blood. And though great Summes of money hath been brought in by the Compoſitions of the Common Enemy, the attainment of which, through the bleſſing of God, was by our Sword, whoſe Conqueſts bears the ſcarlet-dye of our valiant fellow Souldiers blood; yet we ſti<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l remain every day more deep in Arrears then other, no effectuall courſe being taken for the payment and accounting of them.</p>
+            <p n="3">Thirdly, The ſad Complaints, and miſerable ſufferings of many of our fel<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ow Souldiers who now ſuffer, and the recal<g ref="char:EOLhyphen"/>ling to our ſerious meditation the miſerable impriſonment, and ignominious death of many who were reall and faithfull
+<pb n="8" facs="tcp:160240:6"/> in this Service; all which they have undergone for acting things which the exigency of Warre conſtrains them to do, the Conſideration whereof makes us ſympathize and condoll their ſad condition, that we who ſuffered for the Parliament, ſhould now be made ſufferers by the Parliament, for acting things that were attendant to their Service, and which aggra<g ref="char:EOLhyphen"/>vates our ſorrow, no means (as we can perceive) is uſed, for the ſpeedie delivering them of their diſtreſſe, nor no proviſion for ought we hear, to ſecure either them or us for the future.</p>
+            <p n="4">Fourthly, That after our disbanding, we have no ſecuritie to free us from the inveterate malice, not of private, but of publick Enemies, who greedily would have ſheathed their Swords in our bowels, but are lyable to their pleaſures; ſome of them bearing Office in the Common-wealth, contrary to the Parliaments Declaration and promiſe: that inſomuch that on every occaſion, we who have been faithfull and con<g ref="char:EOLhyphen"/>ſtant in the Service we have been called unto, and ſhall be im<g ref="char:EOLhyphen"/>preſt forth of the Kingdom, never being ſuffered to injoy the Priviledge we have purchaſed with our lives, nor the liberty of a Subject i<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> injoying our Callings: which confidence of ours is not onely imaginary, but will become a true propheſie, unleſſe the Parliament be pleaſed to diſpoſſeſſe them of their power, that ſo our Enemies may not be our Judges.</p>
+            <p n="5">Fifthly, That although the whole Kingdom are Teſtators, that this Army hath ſerved the Parliament with our diligence and fidelity, that by us could be expreſſed, or by them expected, yet never had we the leaſt aſperſion caſt upon us, for the pro<g ref="char:EOLhyphen"/>ſecution of any unjuſt action, nor never had the infamous badge of unfaithfulneſſe fixed on our backs for betraying the truſt impoſed in us, yet the Parliament upon ſuggeſtion and miſ-information, without due examination, were ready to give thanks to the ſuggeſtors and miſ-informers, as if they had waited for an advantage againſt us, to declare us Enemies of the State, and diſturbers of the publick peace, the very thought of which we utterly abominate. And though the very
+<pb n="9" facs="tcp:160240:6"/> ſuggeſtors and miſ-informers have been proved falſe in their Informations, yet the Parliament hath not declared againſt them as Enemies of the State, and fomenters of diviſion be<g ref="char:EOLhyphen"/>tween the Parliament and their Army.</p>
+            <p n="6">Sixthly, That ſeverall faithfull Officers, Members of this Army, upon miſrepreſentation hath been ſent for from the Army as Delinquents, and are yet detained for ought we hear, though no juſt occaſion can be brought in againſt them; a very ingratefull gratnity for their conſtant fidelity, and par<g ref="char:EOLhyphen"/>ticularly Enſigne <hi>Nichols,</hi> againſt all Proceſſe of Law impriſon<g ref="char:EOLhyphen"/>ed, as we are informed, by the Command of ſome particular Members, who afterward procured a Vote to ratifie and con<g ref="char:EOLhyphen"/>firm what they had arbitrarily done; and know not how ſoon it may be our cauſe.</p>
+            <p n="7">Seventhly, That ſuch proportions of Money that have been raiſed upon the Ordinance for Sir <hi>Thomas Fairfax</hi> Army, hath not been accordingly payed us, which hath cauſed us to be burthenſome to our friends, beholding to our foes, and diſho<g ref="char:EOLhyphen"/>nourable to the Imployment: all which hath been occaſioned for want of ſupplyes of Moneys, to diſcharge our Quarters; And we fear muſt yet be further burthenſome, unleſſe moneys come to avoid the ſame. Yet for all this want of money, did never obſtruct the Service, although our pay was abated, and 6. d.
+<hi>per diem</hi> deducted, which the Parliament promiſed to re<g ref="char:EOLhyphen"/>ſtore to us again, when it ſhould pleaſe God to put a period to our diviſions, which now we hope are ended, and expect that promiſe to be converted to the true performance.</p>
+            <p n="8">Eightly, Many of our fellow Souldiers that were Appren<g ref="char:EOLhyphen"/>tice<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in <hi>London,</hi> and other parts of the Kingdom, who came voluntarily into this S<gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ice, in<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ited thereunto by the Parlia<g ref="char:EOLhyphen"/>ments Declaration, which ſaid, That the time they ſpent in the proſecution of their Service, ſhould be as really performed, as if they had really ſerved their Maſters. Which Ordinance hath been, and ſtill is, hindred by divers malignant and ill af<g ref="char:EOLhyphen"/>fected
+<pb n="10" facs="tcp:160240:7"/> Maſters; that inſomuch that unleſſe the Parli<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ent be pleaſed to put in execution this their Declaration, and inflict a puniſhment upon the violaters of it, they will be diſhonour<g ref="char:EOLhyphen"/>ed, and their Ordinance not reſpected; And we who have fought for liberty, inſnared our ſelves into a greater ſlavery.</p>
+            <p n="9">Ninthly, Many of us, if not the major part, have rode States horſes in the Service; but at the loſſe or death of the ſaid Horſes, we have re-mounted our ſelves at our own pro<g ref="char:EOLhyphen"/>per charge: So that we are confident the Parliament will not be ſo ignoble and unjuſt to diſmount us. So our confidence is as firmly grounded, that the forwardneſſe of our Service ſhall not redound to the backwardneſſe of our reward: and alſo thoſe that have been plundered and impriſoned, the wives and children of thoſe who have been ſlain in this Service, may no longer eccho forth their lamentations at the Parlia<g ref="char:EOLhyphen"/>ment doores, (which aggrievance ſaddeth our ſouls) but may have ſupplyes according to their neceſſities. And the Parlia<g ref="char:EOLhyphen"/>ments many Proteſtations taken not onely by themſelves, but alſo impoſed upon moſt of us; ſo that untill this, together with all the reſt of the true intents of the Proteſtation, be not onely verbally, but really performed, we cannot ingage for any forrain Service: unleſſe we ſhall manifeſtly ſhew our ſelves a perjured generation.</p>
+            <p>Laſtly, We beſeech the Honourable Houſe, not to miſappre<g ref="char:EOLhyphen"/>hend any of the afore-mentioned aggrievances, but to be pleaſed to cloathe the naked truth with their favourable con<g ref="char:EOLhyphen"/>ſtructions and approbation, that ſo the infamous and re<g ref="char:EOLhyphen"/>proachfull title of the diſturbers of the Peace of the Kingdom may never be fyled on our Account, whoſe ſafetie and tran<g ref="char:EOLhyphen"/>quillitie we preferre before our own, nor the opprobrions brands of the obſtructors of the relief of <hi>Ireland</hi> be ſealed on our foreheads, whoſe ſad condition we ſeriouſly commiſe<g ref="char:EOLhyphen"/>rate; and whoſe ſpeedie relief we never will obſtruct, but ear<g ref="char:EOLhyphen"/>neſtly endeavour. But in the interim we humbly deſire, That
+<pb n="11" facs="tcp:160240:7"/> our humble requeſts may be heard and anſwered, theſe our grievances ſeriouſly conſidered, and remedies anſwerable to the diſeaſes applyed: Untill ſuch time, </p>
+            <closer>we ſhall remain ſuch as we alwayes were <signed>Humble, faithfull, and obedient Servants to the Honourable Houſe, ſerious c<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n<g ref="char:EOLhyphen"/>dolers of <hi>Irelands</hi> diſtreſſe, earneſt endeavourers of this Kingdoms peace, and perpetuall friends and Servants to our Countres, and true and ſaith<g ref="char:EOLhyphen"/>full lovers of our liberty and free<g ref="char:EOLhyphen"/>domes.</signed>
+            </closer>
+         </div>
+         <div type="requests">
+            <pb n="12" facs="tcp:160240:8"/>
+            <head>The Requeſts of Coll: <hi>Riches</hi> Re<g ref="char:EOLhyphen"/>giment upon the Votes of
+<hi>Parliament.</hi>
+            </head>
+            <p n="1">1. THat whereas the Parliament ſaith, they have appoint<g ref="char:EOLhyphen"/>ed an Ordinance to be brought in very ſuddenly for our indempnity.</p>
+            <p n="1">1. We humbly deſire, that the Ordinance may be forth<g ref="char:EOLhyphen"/>with reſolved, and paſſed by the Honourable Houſe of Parlia<g ref="char:EOLhyphen"/>ment, that ſo more weighty affairs may not be obſtructed, and we no longer ſuſpended of our deſires.</p>
+            <p n="2">2. That this Ordinance be ſo large, that it extend not onely to us for acting things which we were authorized to act by our reſpective Officers, but alſo for acts which the exigency of Warre hath conſtrained us to act without their Command; when as our lives and liberties were expoſed to the danger of our mercileſſe Enemies.</p>
+            <p n="2">Secondly, Whereas the Honourable Houſe ſaith, That an Ordinance is now lying before them to that purpoſe.</p>
+            <p>Although we do not queſtion the verity of the Houſe in this particular, yet we humbly deſire, that as we have acted things in the publick view of the Kingdom, that hath involved us into this ſlavery, that ſo we may have the publick view of the Vindication, that not onely us who have been the actors, but it may be publickly proclaimed to the whole Kingdom, who have been the ſufferers.</p>
+            <p>Thirdly, That the Honourable Houſe hath reſolved that a conſiderable proportion of our Arrears be payed to us at our disbanding.</p>
+            <p>We moſt humbly crave leave to ask the Honourable Houſe two things.</p>
+            <p n="1">1. What they mean by a proportion of Arrears.</p>
+            <p n="2">2. What they call a conſiderable proportion, and how much it is.</p>
+            <p>
+               <pb n="13" facs="tcp:160240:8"/> Laſtly, That whereas they ſay, they will take care for the payment of the remainder of Arrears, at ſuch time as it may ſtand with the neceſſity of the Kingdom, and care ſhall be ta<g ref="char:EOLhyphen"/>ken for the auditing of our Accounts, and giving us deben<g ref="char:EOLhyphen"/>tures.</p>
+            <p n="1">1. We humbly deſire, that direction may be given us for the attainment of the remainder of Arrears, without the great expence, trouble, loſſe of time, that others have under<g ref="char:EOLhyphen"/>gone in waiting for their Arrears; inſomuch that the benefit hath not countervalued their great pains occaſioned by their tedious waiting.</p>
+            <p n="2">2. That we may have good and firm ſecurity for the pay<g ref="char:EOLhyphen"/>ment of the ſaid moneys that ſhall remain in Arrears.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
